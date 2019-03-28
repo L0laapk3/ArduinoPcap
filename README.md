@@ -1,4 +1,6 @@
 # ArduinoPcap
+Port to windows by L0laapk3.
+
 Create and send .pcap files using ESP8266/ESP32 and Arduino.
 
 [![Sniffing WiFi with ESP32 & ESP8266 in Wireshark](https://img.youtube.com/vi/3Ac6X6ZBQ0g/0.jpg)](https://www.youtube.com/watch?v=3Ac6X6ZBQ0g)  
@@ -36,8 +38,6 @@ For the Serialshark**Windows** script (the script located in `extras`):
   - [pyserial](https://github.com/pyserial/pyserial) 
   - pypiwin32: pip install pypiwin32
   - [Wireshark](https://www.wireshark.org/#download)
-
-**Please be aware that the Serialshark script doesn't work on Windows!**
 
 ## Usage
 
